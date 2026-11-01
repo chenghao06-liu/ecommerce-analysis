@@ -1,0 +1,10 @@
+# 原始数据文件
+*.xlsx
+*.csv
+
+# jupyter缓存
+.ipynb_checkpoints/
+
+# Python缓存
+__pycache__/
+*.pyc
